@@ -103,7 +103,9 @@ main #course-content {
     background-color: #252525;
     border: 0.1rem solid var(--title-color);
     border-radius: 57px;
+    box-shadow: inset -0.5rem 0.5rem 2rem #000000;
 }
+
 .modules-list .module span {
     color: var(--title-color);
 }
