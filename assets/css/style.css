@@ -119,6 +119,7 @@ main #course-content {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top center;
+    border: 0.1rem solid var(--title-color);
     text-align: left;
     align-items: first baseline;
 }
